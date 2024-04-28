@@ -21,8 +21,6 @@ dependencies:
   - conda-package-streaming
   - conda-token
   - conda-verify
-  - menuinst[version='>=1.0.0a0,<2.0.0']
-  - console_shortcut
   - powershell_shortcut
   - jupyter
   - voila
