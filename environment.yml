@@ -21,7 +21,6 @@ dependencies:
   - conda-package-streaming
   - conda-token
   - conda-verify
-  - powershell_shortcut
   - jupyter
   - voila
 prefix: C:\Users\marco\anaconda3
