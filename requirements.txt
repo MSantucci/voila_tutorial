@@ -190,7 +190,7 @@ msgpack==1.0.3
 multidict==6.0.4
 multipledispatch==0.6.0
 mypy-extensions==1.0.0
-navigator-updater==0.5.0
+#navigator-updater==0.5.0
 nbclient==0.5.13
 nbconvert==7.10.0
 nbformat==5.9.2
